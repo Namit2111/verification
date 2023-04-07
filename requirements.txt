@@ -1,0 +1,4 @@
+django
+opencv-python
+numpy
+face_recognition

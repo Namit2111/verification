@@ -1,6 +1,5 @@
 import face_recognition as fr
-import pickle
-import os
+
 def img_enc(face):
     encoded={}
     
