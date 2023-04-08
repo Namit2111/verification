@@ -2,4 +2,5 @@ django
 opencv-python
 numpy
 cmake
+dlib-bin
 face_recognition
